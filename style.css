@@ -527,3 +527,75 @@ body {
     font-size: 14px;
 }
 
+.g {
+    padding: 40px 80px;
+}
+
+.g1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    background-color: #eaeaea;
+    border-radius: 20px;
+    padding: 0 60px;
+}
+
+.g2 {
+    width: 55%;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.g3 {
+    font-size: 36px;
+    margin-top: 0;
+    margin-bottom: 15px;
+    color: #111111;
+}
+
+.g4 {
+    font-size: 15px;
+    color: gray;
+    margin-top: 0;
+    margin-bottom: 35px;
+    width: 80%;
+}
+
+.g5 {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 30px;
+    padding: 5px;
+    width: 75%;
+}
+
+.g6 {
+    border: none;
+    outline: none;
+    padding-left: 20px;
+    font-size: 14px;
+    width: 65%;
+    border-radius: 30px;
+}
+
+.g7 {
+    background-color: #3b82f6;
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 12px 30px;
+    font-size: 14px;
+}
+
+.g8 {
+    width: 35%;
+    height: 360px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.g9 {
+    width: 100%;
+    height: 100%;
+}
